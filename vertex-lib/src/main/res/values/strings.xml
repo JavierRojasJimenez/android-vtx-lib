@@ -1,2 +1,12 @@
 <resources>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <color name="black">#FF000000</color>
+    <color name="red">#FD0101</color>
+    <color name="blue">#01C2FD</color>
+    <color name="green">#029587</color>
+    <color name="yellow">#FFC107</color>
+
+
 </resources>

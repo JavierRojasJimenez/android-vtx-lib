@@ -36,6 +36,13 @@ android {
 }
 
 dependencies {
+
+    val navVersion = "2.7.0"
+
+    //NavComponent
+    implementation("androidx.navigation:navigation-fragment-ktx:$navVersion")
+    implementation("androidx.navigation:navigation-ui-ktx:$navVersion")
+
     implementation("org.apache.httpcomponents:httpclient:4.5.13")
     implementation("com.android.volley:volley:1.2.1")
     implementation("androidx.core:core-ktx:1.9.0")
